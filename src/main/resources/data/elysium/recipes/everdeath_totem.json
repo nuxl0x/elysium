@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ASA",
+    "STS",
+    "ASA"
+  ],
+  "key": {
+    "A": {
+      "item": "elysium:enderite_alloy"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "S": {
+      "item": "minecraft:soul_soil"
+    }
+  },
+  "result": {
+    "item": "elysium:everdeath_totem",
+    "count": 1
+  },
+  "show_notification": false
+}

@@ -2,6 +2,7 @@ package nuxlox.elysium;
 
 import net.fabricmc.api.ModInitializer;
 
+import nuxlox.elysium.block.ModBlocks;
 import nuxlox.elysium.item.ModItemGroups;
 import nuxlox.elysium.item.ModItems;
 import org.slf4j.Logger;
@@ -17,5 +18,6 @@ public class Elysium implements ModInitializer {
 
         ModItemGroups.registerItemGroups();
         ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
 	}
 }

@@ -8,9 +8,13 @@ import net.minecraft.util.Identifier;
 import nuxlox.elysium.Elysium;
 
 public class ModItems {
+    // Enderite/Enderite Related
+    public static final Item ENDERITE_ALLOY = registerItem("enderite_alloy", new Item(new FabricItemSettings()));
+    public static final Item ENDERITE_POWDER = registerItem("enderite_powder", new Item(new FabricItemSettings()));
+    public static final Item NETHERITE_POWDER = registerItem("netherite_powder", new Item(new FabricItemSettings()));
+    public static final Item END_STONE_POWDER = registerItem("end_stone_powder", new Item(new FabricItemSettings()));
 
-    public static final Item ELINITE = registerItem("elinite", new Item(new FabricItemSettings()));
-    public static final Item GRIMSTONE = registerItem("grimstone", new Item(new FabricItemSettings()));
+    public static final Item EVERDEATH_TOTEM = registerItem("everdeath_totem", new Item(new FabricItemSettings()));
 
     // Item Registration Methods
     private static Item registerItem(String name, Item item) {

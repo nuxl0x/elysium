@@ -1,5 +1,8 @@
 {
-  "item.elysium.elinite": "Elinite",
-  "item.elysium.grimstone": "Grimstone",
-  "itemGroup.elysium": "Elysium"
+  "itemGroup.elysium": "Elysium",
+  "item.elysium.everdeath_totem": "Totem Of Everdeath",
+  "item.elysium.enderite_alloy": "Enderite Alloy",
+  "item.elysium.enderite_powder": "Enderite Powder",
+  "item.elysium.netherite_powder": "Netherite Powder",
+  "item.elysium.end_stone_powder": "End Stone Powder"
 }

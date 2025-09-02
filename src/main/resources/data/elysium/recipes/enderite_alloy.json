@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "item": "elysium:enderite_powder"
+  },
+  "result": "elysium:enderite_alloy",
+  "experience": 20,
+  "cookingtime": 200
+}

@@ -8,15 +8,20 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import nuxlox.elysium.Elysium;
+import nuxlox.elysium.block.ModBlocks;
 
 public class ModItemGroups {
 
     public static final ItemGroup ELYSIUM_GROUP = Registry.register(Registries.ITEM_GROUP,
-            new Identifier(Elysium.MOD_ID, "elinite"),
+            new Identifier(Elysium.MOD_ID, "elysium"),
             FabricItemGroup.builder().displayName(Text.translatable("itemGroup.elysium"))
-                    .icon(() -> new ItemStack(ModItems.ELINITE)).entries((displayContext, entries) -> {
-                        entries.add(ModItems.ELINITE);
-                        entries.add(ModItems.GRIMSTONE);
+                    .icon(() -> new ItemStack(ModItems.EVERDEATH_TOTEM)).entries((displayContext, entries) -> {
+                        entries.add(ModItems.EVERDEATH_TOTEM);
+                        entries.add(ModItems.ENDERITE_ALLOY);
+                        entries.add(ModBlocks.COMPRESSED_ENDERITE_ALLOY_BLOCK);
+                        entries.add(ModItems.ENDERITE_POWDER);
+                        entries.add(ModItems.NETHERITE_POWDER);
+                        entries.add(ModItems.END_STONE_POWDER);
             }).build());
 
     public static void registerItemGroups() {

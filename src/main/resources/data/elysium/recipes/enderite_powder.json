@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "elysium:end_stone_powder"
+    },
+    {
+      "item": "elysium:netherite_powder"
+    }
+  ],
+  "result": {
+    "item": "elysium:enderite_powder",
+    "count": 1
+  }
+}
