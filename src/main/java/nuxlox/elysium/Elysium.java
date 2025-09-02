@@ -2,6 +2,8 @@ package nuxlox.elysium;
 
 import net.fabricmc.api.ModInitializer;
 
+import nuxlox.elysium.item.ModItemGroups;
+import nuxlox.elysium.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +13,9 @@ public class Elysium implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Initialization begun.");
+		LOGGER.info("Initialization of mod '" + Elysium.MOD_ID + "' has begun.");
+
+        ModItemGroups.registerItemGroups();
+        ModItems.registerModItems();
 	}
 }
