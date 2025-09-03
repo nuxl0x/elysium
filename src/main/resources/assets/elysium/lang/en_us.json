@@ -3,7 +3,9 @@
   "item.elysium.everdeath_tome": "Tome Of Everdeath",
   "item.elysium.enderite_alloy": "Enderite Alloy",
   "block.elysium.enderite_alloy_block": "Enderite Alloy Block",
-  "item.elysium.enderite_powder": "Enderite Powder",
-  "item.elysium.netherite_powder": "Netherite Powder",
-  "item.elysium.end_stone_powder": "End Stone Powder"
+  "item.elysium.enderite_dust": "Enderite Dust",
+  "item.elysium.netherite_dust": "Netherite Dust",
+  "item.elysium.end_stone_dust": "End Stone Dust",
+  "item.elysium.steel_ingot": "Steel Ingot",
+  "item.elysium.soulsteel_ingot": "Soulsteel Ingot"
 }

@@ -19,9 +19,11 @@ public class ModItemGroups {
                         entries.add(ModItems.EVERDEATH_TOME);
                         entries.add(ModItems.ENDERITE_ALLOY);
                         entries.add(ModBlocks.ENDERITE_ALLOY_BLOCK);
-                        entries.add(ModItems.ENDERITE_POWDER);
-                        entries.add(ModItems.NETHERITE_POWDER);
-                        entries.add(ModItems.END_STONE_POWDER);
+                        entries.add(ModItems.ENDERITE_DUST);
+                        entries.add(ModItems.NETHERITE_DUST);
+                        entries.add(ModItems.END_STONE_DUST);
+                        entries.add(ModItems.SOULSTEEL_INGOT);
+                        entries.add(ModItems.STEEL_INGOT);
             }).build());
 
     public static void registerItemGroups() {

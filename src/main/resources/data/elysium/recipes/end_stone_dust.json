@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:netherite_ingot"
+      "item": "minecraft:end_stone"
     }
   ],
   "result": {
-    "item": "elysium:netherite_powder",
-    "count": 4
+    "item": "elysium:end_stone_dust",
+    "count": 1
   }
 }

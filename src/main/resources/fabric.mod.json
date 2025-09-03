@@ -26,7 +26,6 @@
 		]
 	},
 	"mixins": [
-		"elysium.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.2",

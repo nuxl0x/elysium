@@ -3,14 +3,14 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "elysium:end_stone_powder"
+      "item": "elysium:end_stone_dust"
     },
     {
-      "item": "elysium:netherite_powder"
+      "item": "elysium:netherite_dust"
     }
   ],
   "result": {
-    "item": "elysium:enderite_powder",
+    "item": "elysium:enderite_dust",
     "count": 1
   }
 }

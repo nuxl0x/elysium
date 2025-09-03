@@ -10,9 +10,13 @@ import nuxlox.elysium.Elysium;
 public class ModItems {
     // Enderite/Enderite Related
     public static final Item ENDERITE_ALLOY = registerItem("enderite_alloy", new Item(new FabricItemSettings()));
-    public static final Item ENDERITE_POWDER = registerItem("enderite_powder", new Item(new FabricItemSettings()));
-    public static final Item NETHERITE_POWDER = registerItem("netherite_powder", new Item(new FabricItemSettings()));
-    public static final Item END_STONE_POWDER = registerItem("end_stone_powder", new Item(new FabricItemSettings()));
+    public static final Item ENDERITE_DUST = registerItem("enderite_dust", new Item(new FabricItemSettings()));
+    public static final Item NETHERITE_DUST = registerItem("netherite_dust", new Item(new FabricItemSettings()));
+    public static final Item END_STONE_DUST = registerItem("end_stone_dust", new Item(new FabricItemSettings()));
+
+    // Soulsteel/Soulsteel Related
+    public static final Item SOULSTEEL_INGOT = registerItem("soulsteel_ingot", new Item(new FabricItemSettings()));
+    public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new FabricItemSettings()));
 
     public static final Item EVERDEATH_TOME = registerItem("everdeath_tome", new Item(new FabricItemSettings()));
 

@@ -5,6 +5,6 @@ But what if you could stop yourself from respawning properly?
 This mod aims to explore the world beyond life, adding new levels of gear, supernatural powers, and more.
 
 **Credits**:  
-nuxlox / nuxl0x - Developer  
-Callumari - Artist
+nuxlox / nuxl0x - Lead Developer, Artist  
+Callumari - Lead Artist
 
