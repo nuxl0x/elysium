@@ -13,7 +13,7 @@ import nuxlox.elysium.Elysium;
 
 public class ModBlocks {
 
-    public static final Block COMPRESSED_ENDERITE_ALLOY_BLOCK = registerBlock("compressed_enderite_alloy_block",
+    public static final Block ENDERITE_ALLOY_BLOCK = registerBlock("enderite_alloy_block",
             new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
 
     // Block Methods

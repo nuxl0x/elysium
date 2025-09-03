@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "elysium:enderite_alloy"
+    }
+  },
+  "result": {
+    "item": "elysium:enderite_alloy_block",
+    "count": 1
+  }
+}

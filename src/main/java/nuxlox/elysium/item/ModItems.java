@@ -14,7 +14,7 @@ public class ModItems {
     public static final Item NETHERITE_POWDER = registerItem("netherite_powder", new Item(new FabricItemSettings()));
     public static final Item END_STONE_POWDER = registerItem("end_stone_powder", new Item(new FabricItemSettings()));
 
-    public static final Item EVERDEATH_TOTEM = registerItem("everdeath_totem", new Item(new FabricItemSettings()));
+    public static final Item EVERDEATH_TOME = registerItem("everdeath_tome", new Item(new FabricItemSettings()));
 
     // Item Registration Methods
     private static Item registerItem(String name, Item item) {

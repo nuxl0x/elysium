@@ -15,10 +15,10 @@ public class ModItemGroups {
     public static final ItemGroup ELYSIUM_GROUP = Registry.register(Registries.ITEM_GROUP,
             new Identifier(Elysium.MOD_ID, "elysium"),
             FabricItemGroup.builder().displayName(Text.translatable("itemGroup.elysium"))
-                    .icon(() -> new ItemStack(ModItems.EVERDEATH_TOTEM)).entries((displayContext, entries) -> {
-                        entries.add(ModItems.EVERDEATH_TOTEM);
+                    .icon(() -> new ItemStack(ModItems.EVERDEATH_TOME)).entries((displayContext, entries) -> {
+                        entries.add(ModItems.EVERDEATH_TOME);
                         entries.add(ModItems.ENDERITE_ALLOY);
-                        entries.add(ModBlocks.COMPRESSED_ENDERITE_ALLOY_BLOCK);
+                        entries.add(ModBlocks.ENDERITE_ALLOY_BLOCK);
                         entries.add(ModItems.ENDERITE_POWDER);
                         entries.add(ModItems.NETHERITE_POWDER);
                         entries.add(ModItems.END_STONE_POWDER);
