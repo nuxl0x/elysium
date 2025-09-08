@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "###",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "elysium:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "elysium:steel_plate",
+    "count": 1
+  }
+}

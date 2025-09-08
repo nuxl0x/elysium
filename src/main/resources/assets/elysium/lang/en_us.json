@@ -8,10 +8,12 @@
   "item.elysium.netherite_dust": "Netherite Dust",
   "item.elysium.end_stone_dust": "End Stone Dust",
   "item.elysium.steel_ingot": "Steel Ingot",
+  "item.elysium.steel_plate": "Steel Plate",
   "item.elysium.soulsteel_ingot": "Soulsteel Ingot",
   "item.elysium.soulsteel_sword": "Soulsteel Sword",
   "item.elysium.soulsteel_pickaxe": "Soulsteel Pickaxe",
   "item.elysium.soulsteel_axe": "Soulsteel Axe",
   "item.elysium.soulsteel_shovel": "Soulsteel Shovel",
-  "item.elysium.soulsteel_hoe": "Soulsteel Hoe"
+  "item.elysium.soulsteel_hoe": "Soulsteel Hoe",
+  "item.elysium.reinforced_stick": "Reinforced Stick"
 }
