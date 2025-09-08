@@ -16,14 +16,32 @@ public class ModItemGroups {
             new Identifier(Elysium.MOD_ID, "elysium"),
             FabricItemGroup.builder().displayName(Text.translatable("itemGroup.elysium"))
                     .icon(() -> new ItemStack(ModItems.EVERDEATH_TOME)).entries((displayContext, entries) -> {
+                        // Misc
                         entries.add(ModItems.EVERDEATH_TOME);
+                        entries.add(ModItems.REINFORCED_STICK);
+
+                        // Enderite
                         entries.add(ModItems.ENDERITE_ALLOY);
                         entries.add(ModBlocks.ENDERITE_ALLOY_BLOCK);
                         entries.add(ModItems.ENDERITE_DUST);
+
+                        // Dusts
                         entries.add(ModItems.NETHERITE_DUST);
                         entries.add(ModItems.END_STONE_DUST);
-                        entries.add(ModItems.SOULSTEEL_INGOT);
+
+                        // Steel
                         entries.add(ModItems.STEEL_INGOT);
+                        entries.add(ModItems.STEEL_PLATE);
+
+                        // Soulsteel
+                        entries.add(ModItems.SOULSTEEL_INGOT);
+                        entries.add(ModItems.SOULSTEEL_SWORD);
+                        entries.add(ModItems.SOULSTEEL_PICKAXE);
+                        entries.add(ModItems.SOULSTEEL_AXE);
+                        entries.add(ModItems.SOULSTEEL_SHOVEL);
+                        entries.add(ModItems.SOULSTEEL_HOE);
+
+                        // Cursed/Imbued Items
             }).build());
 
     public static void registerItemGroups() {

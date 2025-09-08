@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " II",
+    " SI",
+    " S "
+  ],
+  "key": {
+    "I": {
+      "item": "elysium:soulsteel_ingot"
+    },
+    "S": {
+      "item": "elysium:reinforced_stick"
+    }
+  },
+  "result": {
+    "item": "elysium:soulsteel_axe",
+    "count": 1
+  }
+}

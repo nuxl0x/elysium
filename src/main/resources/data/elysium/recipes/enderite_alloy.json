@@ -2,7 +2,7 @@
   "type": "minecraft:blasting",
   "category": "misc",
   "ingredient": {
-    "item": "elysium:enderite_powder"
+    "item": "elysium:enderite_dust"
   },
   "result": "elysium:enderite_alloy",
   "experience": 20,
