@@ -3,13 +3,15 @@
 	"id": "elysium",
 	"version": "${version}",
 	"name": "Elysium",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Elysium. Paradise for those that are deceased. All players pass through during the process of reincarnating.\nBut what if you could stop yourself from respawning properly?\n\nThis mod aims to explore the world beyond life, adding new levels of gear, supernatural powers, and more",
 	"authors": [
-		"nuxlox / nuxl0x / Nuclearx86"
+		"nuxlox",
+        "Callumari"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/nuxl0x/elysium",
+        "issues": "https://github.com/nuxl0x/elysium/issues",
+		"sources": "https://github.com/nuxl0x/elysium"
 	},
 	"license": "MIT",
 	"icon": "assets/elysium/icon.png",
