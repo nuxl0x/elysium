@@ -24,6 +24,7 @@ public class ModItemGroups {
                         entries.add(ModItems.ENDERITE_ALLOY);
                         entries.add(ModBlocks.ENDERITE_ALLOY_BLOCK);
                         entries.add(ModItems.ENDERITE_DUST);
+                        entries.add(ModItems.ENDERITE_BINDING);
 
                         // Dusts
                         entries.add(ModItems.NETHERITE_DUST);
@@ -35,6 +36,8 @@ public class ModItemGroups {
 
                         // Soulsteel
                         entries.add(ModItems.SOULSTEEL_INGOT);
+                        entries.add(ModItems.SOULSTEEL_BINDING);
+                        // Soulsteel Tools
                         entries.add(ModItems.SOULSTEEL_SWORD);
                         entries.add(ModItems.SOULSTEEL_PICKAXE);
                         entries.add(ModItems.SOULSTEEL_AXE);

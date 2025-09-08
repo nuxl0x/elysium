@@ -1,19 +1,28 @@
 {
   "itemGroup.elysium": "Elysium",
   "itemGroup.elysium_tools": "Elysium Tools",
+
   "item.elysium.everdeath_tome": "Tome Of Everdeath",
+
   "item.elysium.enderite_alloy": "Enderite Alloy",
+  "item.elysium.enderite_binding": "Enderite Binding",
   "block.elysium.enderite_alloy_block": "Enderite Alloy Block",
+
   "item.elysium.enderite_dust": "Enderite Dust",
   "item.elysium.netherite_dust": "Netherite Dust",
   "item.elysium.end_stone_dust": "End Stone Dust",
+
   "item.elysium.steel_ingot": "Steel Ingot",
   "item.elysium.steel_plate": "Steel Plate",
+
   "item.elysium.soulsteel_ingot": "Soulsteel Ingot",
+  "item.elysium.soulsteel_binding": "Soulsteel Binding",
+
   "item.elysium.soulsteel_sword": "Soulsteel Sword",
   "item.elysium.soulsteel_pickaxe": "Soulsteel Pickaxe",
   "item.elysium.soulsteel_axe": "Soulsteel Axe",
   "item.elysium.soulsteel_shovel": "Soulsteel Shovel",
   "item.elysium.soulsteel_hoe": "Soulsteel Hoe",
+
   "item.elysium.reinforced_stick": "Reinforced Stick"
 }

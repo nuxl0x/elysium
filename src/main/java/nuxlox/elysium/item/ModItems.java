@@ -12,6 +12,7 @@ public class ModItems {
     // Enderite
     public static final Item ENDERITE_ALLOY = registerItem("enderite_alloy", new Item(new FabricItemSettings()));
     public static final Item ENDERITE_DUST = registerItem("enderite_dust", new Item(new FabricItemSettings()));
+    public static final Item ENDERITE_BINDING = registerItem("enderite_binding", new Item(new FabricItemSettings()));
 
     // Dusts
     public static final Item NETHERITE_DUST = registerItem("netherite_dust", new Item(new FabricItemSettings()));
@@ -23,6 +24,8 @@ public class ModItems {
 
     // Soulsteel
     public static final Item SOULSTEEL_INGOT = registerItem("soulsteel_ingot", new Item(new FabricItemSettings()));
+    public static final Item SOULSTEEL_BINDING = registerItem("soulsteel_binding", new Item(new FabricItemSettings()));
+    // Soulsteel Tools
     public static final Item SOULSTEEL_PICKAXE = registerItem("soulsteel_pickaxe", new PickaxeItem(ModToolMaterial.SOULSTEEL,2, 2f, new FabricItemSettings().maxCount(1)));
     public static final Item SOULSTEEL_SWORD = registerItem("soulsteel_sword", new SwordItem(ModToolMaterial.SOULSTEEL, 8, 2f, new FabricItemSettings().maxCount(1)));
     public static final Item SOULSTEEL_AXE = registerItem("soulsteel_axe", new AxeItem(ModToolMaterial.SOULSTEEL, 7, 1f, new FabricItemSettings().maxCount(1)));
