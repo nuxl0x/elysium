@@ -18,6 +18,7 @@ public class ModItems {
     public static final Item NETHERITE_DUST = registerItem("netherite_dust", new Item(new FabricItemSettings()));
     public static final Item END_STONE_DUST = registerItem("end_stone_dust", new Item(new FabricItemSettings()));
 
+
     // Steel
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new FabricItemSettings()));
     public static final Item STEEL_PLATE = registerItem("steel_plate", new Item(new FabricItemSettings()));
@@ -31,8 +32,6 @@ public class ModItems {
     public static final Item SOULSTEEL_AXE = registerItem("soulsteel_axe", new AxeItem(ModToolMaterial.SOULSTEEL, 7, 1f, new FabricItemSettings().maxCount(1)));
     public static final Item SOULSTEEL_SHOVEL = registerItem("soulsteel_shovel", new ShovelItem(ModToolMaterial.SOULSTEEL, 2, 3f, new FabricItemSettings().maxCount(1)));
     public static final Item SOULSTEEL_HOE = registerItem("soulsteel_hoe", new HoeItem(ModToolMaterial.SOULSTEEL, 3, 4f, new FabricItemSettings().maxCount(1)));
-
-    // Cursed/Imbued Items
 
     // Misc
     public static final Item EVERDEATH_TOME = registerItem("everdeath_tome", new Item(new FabricItemSettings().maxCount(1).rarity(Rarity.RARE)));
